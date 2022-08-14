@@ -1,7 +1,7 @@
 # 这是一个包含了各种工具的配置文件的仓库
 ## 已收录的配置
-| 系统           | 工具 | 配置          |
-|:---------------|:-----|:--------------|
-| debian         | vim  | .vimrc        |
-| debian/windows | rime | sync/luna脚本 |
+| 系统           | 工具 | 配置           |
+|:---------------|:-----|:---------------|
+| debian         | vim  | .vimrc         |
+| debian/windows | rime | sync, luna脚本 |
 
