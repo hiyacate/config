@@ -5,3 +5,11 @@
 | debian         | vim  | .vimrc         |
 | debian/windows | rime | sync, luna脚本 |
 
+## 功能
+* vim
+    * debian 下进入插入模式和命令模式自动切换fcitx的输入法
+    *
+* rime
+    * 方案包含86五笔的单字和词组
+    * 支持按z进行拼音反查
+    * 词组方案下不用按Shift直接输入英文
