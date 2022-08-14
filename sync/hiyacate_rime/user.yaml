@@ -1,0 +1,16 @@
+var:
+  last_build_time: 1660384608
+  option:
+    ascii_punct: true
+    extended_charset: false
+    simplification: true
+  previously_selected_schema: wubi86
+  schema_access_time:
+    easy_en: 1659100786
+    luna_quanpin: 1658650718
+    stroke: 1656330451
+    terra_pinyin: 1659193121
+    wubi86: 1659926090
+    wubi86_en: 1659102657
+    wubi86_phrase: 1659926069
+    wubi_pinyin: 1658651418

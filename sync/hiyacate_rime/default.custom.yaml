@@ -1,0 +1,13 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sat Jul 30 23:03:53 2022"
+  rime_version: 1.5.3
+patch:
+  "key_binder/bindings":
+    - {accept: semicolon, send: 2, when: has_menu}
+    - {accept: apostrophe, send: 3, when: has_menu}
+  schema_list:
+    - {schema: wubi86}
+    - {schema: wubi86_phrase}
