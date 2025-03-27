@@ -26,6 +26,7 @@ autocmd InsertEnter * call Fcitx2zh()
 
 
 " General
+set nofoldenable
 set nocompatible
 set nobackup
 set noswapfile
